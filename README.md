@@ -61,7 +61,23 @@ MSE 450 (Real-time Embedded Control Systems) project. Completed with Syed Salman
 
 ## Images
 ### Logo
+
+![alt text](https://github.com/Alzaib/FlappyBird_TivaC/blob/main/Demo/1.png)
+
 ### Start Screen
+
+![alt text](https://github.com/Alzaib/FlappyBird_TivaC/blob/main/Demo/2.png)
+
 ### Game Screen 
+
+![alt text](https://github.com/Alzaib/FlappyBird_TivaC/blob/main/Demo/3.png)
+
+![alt text](https://github.com/Alzaib/FlappyBird_TivaC/blob/main/Demo/5.png)
+
 ### Hit Screen 
+
+![alt text](https://github.com/Alzaib/FlappyBird_TivaC/blob/main/Demo/6.png)
+
 ### End Screen
+
+![alt text](https://github.com/Alzaib/FlappyBird_TivaC/blob/main/Demo/7.png)
