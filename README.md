@@ -1,4 +1,5 @@
-# Flappy Bird on Tiva C Microcontroller (Simulation-Based Project)
+# Flappy Bird on Tiva C Microcontroller 
+## (Simulation-Based Project)
 MSE 450 (Real-time Embedded Control Systems) project. Completed with Syed Salman and Peter Kwan 
 
 ## Team
