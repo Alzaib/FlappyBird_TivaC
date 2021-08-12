@@ -1,10 +1,13 @@
-# Flappy Bird on Tiva C Microcontroller (Simulation-Based Project)
+# Flappy Bird on Tiva C Microcontroller 
 MSE 450 (Real-time Embedded Control Systems) project. Completed with Syed Salman and Peter Kwan 
 
-## Team
-Alzaib Karovalia
-Peter Kwan
-Syed Salman Haider
+## Team Members
+- Alzaib Karovalia
+- Peter Kwan
+- Syed Salman Haider
+
+## Demo
+![gif](Demo/demo.gif)
 
 
 ## Required files
@@ -38,10 +41,10 @@ Syed Salman Haider
 
 
 ## Steps
--ensure debug option is set to "-pCM4 -dLaunchPadDLL"
--ensure debug mode window updates periodically.
--ensure UART window is opened
--ensure TExaS Nokia, PortF, ADC are all opened
+- ensure debug option is set to "-pCM4 -dLaunchPadDLL"
+- ensure debug mode window updates periodically.
+- ensure UART window is opened
+- ensure TExaS Nokia, PortF, ADC are all opened
 
 
 1. enter debug mode and run
@@ -55,3 +58,10 @@ Syed Salman Haider
 6. When scored PB5 will be lighten
 7. When bird hits, game will show score and reset to start screen.
 8. Press SW2 to start again (not needed if SW2 is left clicked from step 3)
+
+## Images
+### Logo
+### Start Screen
+### Game Screen 
+### Hit Screen 
+### End Screen
