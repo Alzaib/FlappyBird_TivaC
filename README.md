@@ -1,11 +1,13 @@
 # Flappy Bird on Tiva C Microcontroller 
-## (Simulation-Based Project)
 MSE 450 (Real-time Embedded Control Systems) project. Completed with Syed Salman and Peter Kwan 
 
 ## Team
-Alzaib Karovalia
-Peter Kwan
-Syed Salman Haider
+- Alzaib Karovalia
+- Peter Kwan
+- Syed Salman Haider
+
+## Demo
+![gif](Demo/demo.gif)
 
 
 ## Required files
