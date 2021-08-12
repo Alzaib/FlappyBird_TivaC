@@ -1,0 +1,11 @@
+.\initialize.o: initialize.c
+.\initialize.o: initialize.h
+.\initialize.o: C:\Keil\ARM\ARMCC\bin\..\include\time.h
+.\initialize.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\initialize.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\initialize.o: tm4c123gh6pm.h
+.\initialize.o: Nokia5110.h
+.\initialize.o: TExaS.h
+.\initialize.o: C:\Keil\ARM\ARMCC\bin\..\include\stdbool.h
+.\initialize.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+.\initialize.o: ADC.h

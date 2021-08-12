@@ -1,0 +1,13 @@
+.\states.o: states.c
+.\states.o: states.h
+.\states.o: C:\Keil\ARM\ARMCC\bin\..\include\time.h
+.\states.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\states.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\states.o: tm4c123gh6pm.h
+.\states.o: Nokia5110.h
+.\states.o: Random.h
+.\states.o: TExaS.h
+.\states.o: C:\Keil\ARM\ARMCC\bin\..\include\stdbool.h
+.\states.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+.\states.o: image.h
+.\states.o: initialize.h
